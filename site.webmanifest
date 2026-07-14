@@ -1,0 +1,26 @@
+{
+  "name": "虚舟自渡*财富进阶",
+  "short_name": "财富进阶",
+  "description": "一条低风险、可复制、可迭代的财富进阶之路。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#120804",
+  "theme_color": "#f59b33",
+  "icons": [
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
